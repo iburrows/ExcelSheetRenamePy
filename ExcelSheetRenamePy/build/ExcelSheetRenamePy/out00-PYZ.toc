@@ -1,5 +1,9 @@
 ('D:\\source\\ExcelSheetRenamePy\\ExcelSheetRenamePy\\build\\ExcelSheetRenamePy\\out00-PYZ.pyz',
- [('_strptime',
+ [('ntpath',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\_strptime.py',
    'PYMODULE'),
@@ -7,29 +11,17 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\datetime.py',
    'PYMODULE'),
-  ('ntpath',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\ntpath.py',
-   'PYMODULE'),
   ('stringprep',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\stringprep.py',
    'PYMODULE'),
-  ('struct',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\struct.py',
-   'PYMODULE'),
-  ('fnmatch',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\fnmatch.py',
-   'PYMODULE'),
-  ('_compat_pickle',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\_compat_pickle.py',
-   'PYMODULE'),
   ('__future__',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\__future__.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\argparse.py',
    'PYMODULE'),
   ('difflib',
    'C:\\Program Files (x86)\\Microsoft Visual '
@@ -195,6 +187,10 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\tempfile.py',
    'PYMODULE'),
+  ('subprocess',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\subprocess.py',
+   'PYMODULE'),
   ('tty',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\tty.py',
@@ -206,6 +202,10 @@
   ('pydoc_data.topics',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\textwrap.py',
    'PYMODULE'),
   ('html.entities',
    'C:\\Program Files (x86)\\Microsoft Visual '
@@ -303,6 +303,10 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\email\\charset.py',
    'PYMODULE'),
+  ('base64',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\base64.py',
+   'PYMODULE'),
   ('email._encoded_words',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\email\\_encoded_words.py',
@@ -375,6 +379,14 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\tarfile.py',
    'PYMODULE'),
+  ('_dummy_thread',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\dummy_threading.py',
+   'PYMODULE'),
   ('py_compile',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\py_compile.py',
@@ -387,6 +399,10 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\shutil.py',
    'PYMODULE'),
+  ('selectors',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\selectors.py',
+   'PYMODULE'),
   ('socket',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\socket.py',
@@ -398,6 +414,18 @@
   ('pydoc',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\gettext.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\getopt.py',
    'PYMODULE'),
   ('pdb',
    'C:\\Program Files (x86)\\Microsoft Visual '
@@ -415,9 +443,21 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\string.py',
    'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\threading.py',
+   'PYMODULE'),
   ('logging',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python36_64\\lib\\contextlib.py',
    'PYMODULE'),
   ('unittest.case',
    'C:\\Program Files (x86)\\Microsoft Visual '
@@ -431,33 +471,29 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\unittest\\loader.py',
    'PYMODULE'),
-  ('unittest.runner',
+  ('stat',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\unittest\\runner.py',
+   'Studio\\Shared\\Python36_64\\lib\\stat.py',
    'PYMODULE'),
-  ('unittest.main',
+  ('genericpath',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\unittest\\main.py',
+   'Studio\\Shared\\Python36_64\\lib\\genericpath.py',
    'PYMODULE'),
-  ('unittest.signals',
+  ('posixpath',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\unittest\\signals.py',
+   'Studio\\Shared\\Python36_64\\lib\\posixpath.py',
    'PYMODULE'),
-  ('unittest',
+  ('fnmatch',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\unittest\\__init__.py',
+   'Studio\\Shared\\Python36_64\\lib\\fnmatch.py',
    'PYMODULE'),
-  ('doctest',
+  ('struct',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\doctest.py',
+   'Studio\\Shared\\Python36_64\\lib\\struct.py',
    'PYMODULE'),
-  ('textwrap',
+  ('_compat_pickle',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('argparse',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\argparse.py',
+   'Studio\\Shared\\Python36_64\\lib\\_compat_pickle.py',
    'PYMODULE'),
   ('pprint',
    'C:\\Program Files (x86)\\Microsoft Visual '
@@ -475,69 +511,33 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\warnings.py',
    'PYMODULE'),
-  ('stat',
+  ('unittest.runner',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\stat.py',
+   'Studio\\Shared\\Python36_64\\lib\\unittest\\runner.py',
    'PYMODULE'),
-  ('genericpath',
+  ('unittest.main',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\genericpath.py',
-   'PYMODULE'),
-  ('posixpath',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\posixpath.py',
-   'PYMODULE'),
-  ('enum',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\enum.py',
+   'Studio\\Shared\\Python36_64\\lib\\unittest\\main.py',
    'PYMODULE'),
   ('signal',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python36_64\\lib\\signal.py',
    'PYMODULE'),
-  ('contextlib',
+  ('unittest.signals',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\contextlib.py',
+   'Studio\\Shared\\Python36_64\\lib\\unittest\\signals.py',
    'PYMODULE'),
-  ('_threading_local',
+  ('unittest',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\_threading_local.py',
+   'Studio\\Shared\\Python36_64\\lib\\unittest\\__init__.py',
    'PYMODULE'),
-  ('threading',
+  ('doctest',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\threading.py',
+   'Studio\\Shared\\Python36_64\\lib\\doctest.py',
    'PYMODULE'),
-  ('selectors',
+  ('enum',
    'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\selectors.py',
-   'PYMODULE'),
-  ('_dummy_thread',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\_dummy_thread.py',
-   'PYMODULE'),
-  ('dummy_threading',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\dummy_threading.py',
-   'PYMODULE'),
-  ('subprocess',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\subprocess.py',
-   'PYMODULE'),
-  ('copy',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\copy.py',
-   'PYMODULE'),
-  ('gettext',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\gettext.py',
-   'PYMODULE'),
-  ('getopt',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\getopt.py',
-   'PYMODULE'),
-  ('base64',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python36_64\\lib\\base64.py',
+   'Studio\\Shared\\Python36_64\\lib\\enum.py',
    'PYMODULE'),
   ('tkinter.filedialog',
    'C:\\Program Files (x86)\\Microsoft Visual '
